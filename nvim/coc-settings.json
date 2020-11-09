@@ -1,0 +1,7 @@
+{
+  "explorer.icon.enableNerdfont": true,
+  "tabnine.openConfig": {
+     "ignore_all_lsp": true
+  }
+}
+
