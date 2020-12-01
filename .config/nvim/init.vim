@@ -35,6 +35,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'sheerun/vim-polyglot'
 Plug 'stephenway/postcss.vim'
 Plug 'rust-lang/rust.vim'
+Plug 'rescript-lang/vim-rescript'
 
 "LANGUAGE COMPLETION
 "Plug 'valloric/youcompleteme'

@@ -2,6 +2,15 @@
   "explorer.icon.enableNerdfont": true,
   "tabnine.openConfig": {
      "ignore_all_lsp": true
+  },
+  "languageserver": {
+    "rescript": {
+      "enable": true,
+      "module": "/home/captcha/.local/share/nvim/plugged/vim-rescript/rescript-vscode-1.0.0/extension/server/out/server.js",
+      "args": ["--node-ipc"],
+      "filetypes": ["rescript"],
+      "rootPatterns": ["bsconfig.json"]
+    }
   }
 }
 
