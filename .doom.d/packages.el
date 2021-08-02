@@ -55,5 +55,8 @@
 (package! latex-pretty-symbols)
 (package! ivy-yasnippet )
 (package! reason-mode )
+;; (package! elcord )
+(package! elcord
+  :recipe (:host github :repo "JustCaptcha/elcord"))
 
 (package! google-translate)
